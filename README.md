@@ -1,2 +1,7 @@
-# Pro-Planet
-mobile apllication nudging user behaviour for betterment of planet earth
+# BHARAT TRACKER
+
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.
