@@ -5,3 +5,4 @@ Our project is all about a social media platform where users are encouraged to p
 ## Getting Started
 
 FlutterFlow projects are built to run on the Flutter _stable_ release.
+
