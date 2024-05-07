@@ -1,4 +1,4 @@
-
+# This project is selected for Google Developer solution Challenge 
 # Bharat Tracker
 
 It is a app  which encourages users to contribute to the betterment of the environment by sharing their eco-friendly activities. The process is simple - log in to the app, post your activities (like using paper bags instead of plastic), and inspire others to follow suit.
